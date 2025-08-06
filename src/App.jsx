@@ -15,11 +15,11 @@ function App() {
      
 
 
-<div class="sidenav collapsed" id="sidebar">
+<div className="sidenav collapsed" id="sidebar">
     
   </div>
-<button class="toggle-button" onclick="toggleSidebar()" id="fontForCommon" style="color: #8eb1d4;">☰ Toggle</button>
-<div class="concept">
+<button className="toggle-button" onClick={toggleSidebar} id="fontForCommon" style="color: #8eb1d4;">☰ Toggle</button>
+<div className="concept">
   <i><span id="fontForCommon">Tech Crunch</span></i>
    <a href="https://uslegalpro.com/">
      <i><span id="fontForCommon"> Efiling</span></i>

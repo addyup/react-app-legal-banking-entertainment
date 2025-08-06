@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 
 
-  export function toggleSidebar() {
+   export function toggleSidebar() {
     const sidebar = document.getElementById("sidebar");
     const logoAudioWrapper = document.getElementById("logo-audio-wrapper");
 
