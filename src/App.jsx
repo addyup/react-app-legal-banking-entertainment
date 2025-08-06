@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
+import addylogo from './assets/addyup.png'
 import viteLogo from '/vite.svg'
 import './App.css'
 
@@ -9,12 +10,7 @@ function App() {
   return (
     <div className="center-container">
   <img
-    src="/public/addyup.png"
-    alt="Centered"
-    className="centered-image"
-  />
-   <img
-    src="/public/vite.svg"
+    src="addylogo"
     alt="Centered"
     className="centered-image"
   />
