@@ -18,7 +18,7 @@ function App() {
 <div className="sidenav collapsed" id="sidebar">
     
   </div>
-<button className="toggle-button" onClick={toggleSidebar} id="fontForCommon" style="color: #8eb1d4;">☰ Toggle</button>
+<button className="toggle-button" onClick={toggleSidebar} id="fontForCommon" style={{color: '#8eb1d4;'}}>☰ Toggle</button>
 <div className="concept">
   <i><span id="fontForCommon">Tech Crunch</span></i>
    <a href="https://uslegalpro.com/">
