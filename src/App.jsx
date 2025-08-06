@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="center-container">
   <img
-    src="src/assets/no Background - no Shadows-Logo 3D.png"
+    src="=assets/addyup.png"
     alt="Centered"
     className="centered-image"
   />
