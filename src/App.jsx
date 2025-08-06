@@ -9,7 +9,12 @@ function App() {
   return (
     <div className="center-container">
   <img
-    src="/addyup.png"
+    src="/public/addyup.png"
+    alt="Centered"
+    className="centered-image"
+  />
+   <img
+    src="/public/vite.svg"
     alt="Centered"
     className="centered-image"
   />
