@@ -8,22 +8,30 @@ function App() {
 
   return (
     <div>
-
-
       <div className="center-container">
-      <img
+
+        
+      <div className="p-5 bg-light border rounded">
+    <img
         src={addylogo}
         alt="Centered"
         className="centered-image"
       />
+  </div>
+
+      
+
+       
+     
+  </div>
+
+      
+
     </div>
 
 
-    <div className="center-container">
-      <h1>Commission based service providers.</h1>
-    </div>
+    
 
-    </div>
    
     
   )

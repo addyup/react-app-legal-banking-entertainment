@@ -2,12 +2,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Full viewport height */
-  background-color: #f9f9f9; /* Optional */
-}
-
-.centered-image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px; /* Optional styling */
+  height: 100vh;
 }
