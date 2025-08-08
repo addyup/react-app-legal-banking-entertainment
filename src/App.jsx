@@ -20,7 +20,11 @@ function App() {
   </div>
 
       
-
+<div className="p-5 bg-light border rounded">
+    <h1 className='cool-text'>
+      Commission Based service providers.
+    </h1>
+  </div>
        
      
   </div>
