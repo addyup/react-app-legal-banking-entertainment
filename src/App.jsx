@@ -9,7 +9,11 @@ function App() {
   return (
     <div>
       <div className="center-container">
-
+<div className="p-5 bg-light border rounded">
+    <h1 className='cool-text'>
+      Commission Based service providers.
+    </h1>
+  </div>
         
       <div className="p-5 bg-light border rounded">
     <img
@@ -20,11 +24,7 @@ function App() {
   </div>
 
       
-<div className="p-5 bg-light border rounded">
-    <h1 className='cool-text'>
-      Commission Based service providers.
-    </h1>
-  </div>
+
        
      
   </div>
