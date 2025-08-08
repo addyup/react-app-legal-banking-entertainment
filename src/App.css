@@ -1,10 +1,18 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
 .center-container {
-  /* No flex styles at all */
-  text-align: center; /* optional: to center inner content */
+  display: flex;
+  flex-direction: column; /* stack the blocks vertically */
+  align-items: center;    /* center horizontally */
+  justify-content: center; /* center vertically */
+  min-height: 100vh;      /* take full height of viewport */
+  text-align: center;
 }
 .cool-text {
   font-size: 2.5rem;
-  color: #0ff;
+  color: rgb(142, 178, 178);
   text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
   font-family: 'Orbitron', sans-serif;
-}

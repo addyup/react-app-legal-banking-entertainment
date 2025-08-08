@@ -7,31 +7,21 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
-      <div className="center-container">
-<div className="p-5 bg-light border rounded">
+   <div className="center-container">
+  <div className="p-5 bg-light border rounded">
     <h1 className='cool-text'>
       Commission Based service providers.
     </h1>
   </div>
-        
-      <div className="p-5 bg-light border rounded">
+
+  <div className="p-5 bg-light border rounded">
     <img
-        src={addylogo}
-        alt="Centered"
-        className="centered-image"
-      />
+      src={addylogo}
+      alt="Centered"
+      className="centered-image"
+    />
   </div>
-
-      
-
-       
-     
-  </div>
-
-      
-
-    </div>
+</div>
 
 
     
