@@ -119,3 +119,13 @@ a:hover {
   color: #0ff;
   text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
 }
+
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+.banner-track {
+  display: inline-block;
+  white-space: nowrap;
+  /* animation: scroll-left 15s linear infinite; */ /* disable this */
+}
