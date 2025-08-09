@@ -12,7 +12,7 @@ function App() {
     <div className="moving-banner">
   <div className="banner-track">
     <h1 className="cool-text">
-      Commission Based Service Providers.
+      Scroll Down for music links!
     </h1>
   </div>
 </div>
