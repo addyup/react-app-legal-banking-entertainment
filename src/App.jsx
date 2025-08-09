@@ -26,6 +26,10 @@ function App() {
       className="centered-image"
     />
   </div>
+
+  <div>
+    <table></table>
+  </div>
 </div>
 
 
