@@ -9,9 +9,14 @@ function App() {
   return (
    <div className="center-container">
   <div className="p-5 bg-light border rounded">
-    <h1 className='cool-text'>
-      Commission Based service providers.
+    <div className="moving-banner">
+  <div className="banner-track">
+    <h1 className="cool-text">
+      Commission Based Service Providers.
     </h1>
+  </div>
+</div>
+
   </div>
 
   <div className="p-5 bg-light border rounded">
@@ -36,6 +41,7 @@ function App() {
 // it will load
 // format is .jsx
 // npm run dev
+// 
 
 
 export default App
