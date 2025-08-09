@@ -8,7 +8,11 @@ function App() {
 
   return (
    <div className="center-container">
+
+
   <div className="p-5 bg-light border rounded">
+
+
     <div className="moving-banner">
   <div className="banner-track">
     <h1 className="cool-text">
@@ -27,10 +31,41 @@ function App() {
     />
   </div>
 
-  <div>
-    <h1>TBD Song Table</h1>
-    <table></table>
+ <div className="p-5 bg-light border rounded">
+
+    
+    <div className="static-banner">
+  <div className="banner-track">
+    <h1 className="cool-text">
+      Music Links!!!
+    </h1>
+
+<table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Artist</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Blinding Lights</td>
+        <td>The Weeknd</td>
+        <td><a href="https://example.com/blinding-lightshttps://www.youtube.com/watch?v=4NRXx6U8ABQ&list=RD4NRXx6U8ABQ&start_radio=1" target="_blank">Listen</a></td>
+      </tr>
+      
+    </tbody>
+  </table>
+
   </div>
+
+
+
+</div>
+
+  </div>
+
 </div>
 
 
