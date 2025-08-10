@@ -46,10 +46,17 @@ function App() {
       </tr>
     </thead>
     <tbody>
+
       <tr>
         <td>Blinding Lights</td>
         <td>The Weeknd</td>
         <td><a href="https://www.youtube.com/watch?v=4NRXx6U8ABQ&list=RD4NRXx6U8ABQ&start_radio=1" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>MaP</td>
+        <td>Addy Up</td>
+        <td><a href="https://www.youtube.com/watch?v=po68xJBc_gM&list=OLAK5uy_la_Lj4oDIY3zNGsDas2_Q4zsXs3na6-Cc" target="_blank">Listen</a></td>
       </tr>
       
     </tbody>
