@@ -76,20 +76,6 @@ table {
   box-shadow: 0 4px 20px rgba(0, 255, 255, 0.15);
 }
 
-table {
-  width: 80%;
-  border-collapse: separate;
-  border-spacing: 0;
-  margin: 20px auto;
-  font-family: 'Orbitron', sans-serif;
-  color: #cfffff;
-  background-color: #012f2f;
-  border: 1px solid #00cccc;
-  box-shadow: 0 0 15px rgba(0, 255, 255, 0.1);
-  border-radius: 10px;
-  overflow: hidden;
-}
-
 th, td {
   padding: 15px 20px;
   text-align: left;
@@ -128,4 +114,25 @@ a:hover {
   display: inline-block;
   white-space: nowrap;
   /* animation: scroll-left 15s linear infinite; */ /* disable this */
+}
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 20px auto;
+  padding: 0 10px; /* optional padding */
+}
+
+table {
+  width: 100%; /* make table full width */
+  min-width: 600px; /* allow scrolling if content is wider than screen */
+  border-collapse: separate;
+  border-spacing: 0;
+  font-family: 'Orbitron', sans-serif;
+  color: #cfffff;
+  background-color: #012f2f;
+  border: 1px solid #00cccc;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
 }

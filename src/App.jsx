@@ -31,7 +31,7 @@ function App() {
     />
   </div>
 
- <div className="p-5 bg-light border rounded">
+ <div className="table-responsive">
 
     
     
