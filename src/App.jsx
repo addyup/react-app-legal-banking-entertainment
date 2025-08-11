@@ -1,5 +1,12 @@
 import { useState } from 'react'
+
 import addylogo from './assets/addyup.png'
+import burningPsyDuck from './assets/imagesEllum/IMG_8613.JPG'
+import sasuke from './assets/imagesEllum/IMG_8523.jpeg'
+import saturn from './assets/imagesEllum/IMG_8504.JPG'
+import ghostwars from './assets/imagesEllum/IMG_8497.JPG'
+import cosmicneon from './assets/imagesEllum/IMG_8528.jpeg'
+
 import reactLogo from './assets/react.svg'
 import './App.css'
 
@@ -12,28 +19,54 @@ function App() {
 
   <div className="p-5 bg-light border rounded">
 
-
-    <div className="moving-banner">
-  <div className="banner-track">
-    <h1 className="cool-text">
-      Hip/Hop Dallas Music
-    </h1>
+  {/* Moving Banner */}
+  <div className="moving-banner">
+    <div className="banner-track">
+      <h1 className="cool-text">Hip/Hop Dallas Music</h1>
+    </div>
   </div>
 </div>
 
-  </div>
+{/* Image Banner Section */}
+<div className="bg-light border-top border-bottom py-4">
+  
 
-  <div className="p-5 bg-light border rounded">
+<div className="d-flex flex-wrap justify-content-center align-items-center gap-3">
+
+  {/* Main Logo */}
+  <img
+    src={addylogo}
+    alt="Logo"
+    className="img-fluid"
+    style={{
+      height: '150px',
+      objectFit: 'contain',
+      width: 'auto',
+      maxWidth: '100%',
+    }}
+  />
+
+  {/* 5 Banner Images */}
+  {[burningPsyDuck, sasuke, saturn, ghostwars, cosmicneon].map((src, index) => (
     <img
-  src={addylogo}
-  alt="Logo"
-  className="img-fluid"
-  style={{
-    maxWidth: '400px',
-    height: 'auto',
-  }}
-/>
-  </div>
+      key={index}
+      src={src}
+      alt={`Image ${index + 1}`}
+      className="img-fluid"
+      style={{
+        height: '150px',
+        objectFit: 'cover',
+        width: 'auto',
+        maxWidth: '100%',
+      }}
+    />
+  ))}
+
+</div>
+
+
+</div>
+
 
  <div className="table-responsive">
 
