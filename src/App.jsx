@@ -64,6 +64,18 @@ function App() {
         <td>Addy Up</td>
         <td><a href="https://www.youtube.com/watch?v=iNYucKKHebE&list=OLAK5uy_mObv6uYOp_II6RfXXEGLAgJUgBNSE2Bx8" target="_blank">Listen</a></td>
       </tr>
+
+      <tr>
+        <td>WYD</td>
+        <td>Kuzo</td>
+        <td><a href="https://youtu.be/MD4SyHciEDk" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>Outer Space</td>
+        <td>Lil Sonata, Shida da Mac</td>
+        <td><a href="https://youtu.be/I-HNbnHEEUc" target="_blank">Listen</a></td>
+      </tr>
       
     </tbody>
   </table>
