@@ -16,7 +16,7 @@ function App() {
     <div className="moving-banner">
   <div className="banner-track">
     <h1 className="cool-text">
-      Scroll Down for music links!
+      Hip/Hop Dallas Music
     </h1>
   </div>
 </div>
@@ -25,10 +25,14 @@ function App() {
 
   <div className="p-5 bg-light border rounded">
     <img
-      src={addylogo}
-      alt="Centered"
-      className="centered-image"
-    />
+  src={addylogo}
+  alt="Logo"
+  className="img-fluid"
+  style={{
+    maxWidth: '400px',
+    height: 'auto',
+  }}
+/>
   </div>
 
  <div className="table-responsive">
@@ -48,21 +52,9 @@ function App() {
     <tbody>
 
       <tr>
-        <td>Blinding Lights</td>
-        <td>The Weeknd</td>
-        <td><a href="https://www.youtube.com/watch?v=4NRXx6U8ABQ&list=RD4NRXx6U8ABQ&start_radio=1" target="_blank">Listen</a></td>
-      </tr>
-
-      <tr>
-        <td>MaP</td>
+        <td>BBMWAA</td>
         <td>Addy Up</td>
-        <td><a href="https://www.youtube.com/watch?v=po68xJBc_gM&list=OLAK5uy_la_Lj4oDIY3zNGsDas2_Q4zsXs3na6-Cc" target="_blank">Listen</a></td>
-      </tr>
-
-      <tr>
-        <td>OTT</td>
-        <td>Addy Up</td>
-        <td><a href="https://www.youtube.com/watch?v=iNYucKKHebE&list=OLAK5uy_mObv6uYOp_II6RfXXEGLAgJUgBNSE2Bx8" target="_blank">Listen</a></td>
+        <td><a href="https://www.youtube.com/watch?v=4trU6CPaon4&list=RD4trU6CPaon4&start_radio=1" target="_blank">Listen</a></td>
       </tr>
 
       <tr>
@@ -75,6 +67,18 @@ function App() {
         <td>Outer Space</td>
         <td>Lil Sonata, Shida da Mac</td>
         <td><a href="https://youtu.be/I-HNbnHEEUc" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>armegadon</td>
+        <td>Hollywood Z</td>
+        <td><a href="https://www.youtube.com/watch?v=vSJdYMnvoMY" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>Still</td>
+        <td>StopKrazy</td>
+        <td><a href="https://youtu.be/oB1-dTFiXFU" target="_blank">Listen</a></td>
       </tr>
       
     </tbody>
