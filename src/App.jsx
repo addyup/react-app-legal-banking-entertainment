@@ -113,6 +113,18 @@ function App() {
         <td>StopKrazy</td>
         <td><a href="https://youtu.be/oB1-dTFiXFU" target="_blank">Listen</a></td>
       </tr>
+
+      <tr>
+        <td>HighClassTrenchTalk3tkk</td>
+        <td>GBK Marquis</td>
+        <td><a href="https://www.youtube.com/watch?v=nnGCC1iOpgY" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>Next 2 me</td>
+        <td>Oakcliff Selena [Prod. Lil Sonata Allegro]</td>
+        <td><a href="https://youtu.be/UR6BQ40cdNc" target="_blank">Listen</a></td>
+      </tr>
       
     </tbody>
   </table>
