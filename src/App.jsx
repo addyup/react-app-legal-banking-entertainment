@@ -125,6 +125,24 @@ function App() {
         <td>Oakcliff Selena [Prod. Lil Sonata Allegro]</td>
         <td><a href="https://youtu.be/UR6BQ40cdNc" target="_blank">Listen</a></td>
       </tr>
+
+      <tr>
+        <td>Paint The Picture</td>
+        <td>Dee Dot (feat. Soze Gth)</td>
+        <td><a href="https://www.youtube.com/watch?v=uUnhu1arhRk" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>house of parties</td>
+        <td>Lil Sonata [Official Music Vid]</td>
+        <td><a href="https://www.youtube.com/watch?v=6-7vH8IHmwQ" target="_blank">Listen</a></td>
+      </tr>
+
+      <tr>
+        <td>Love Me</td>
+        <td>Ultra Bz</td>
+        <td><a href="https://ffm.to/p0k6qga" target="_blank">Listen</a></td>
+      </tr>
       
     </tbody>
   </table>
