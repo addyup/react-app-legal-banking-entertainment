@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import { useLocation } from 'react-router-dom';
 
 import addylogo from './assets/addyup.png'
 import burningPsyDuck from './assets/imagesEllum/IMG_8613.JPG'
@@ -14,18 +16,74 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+    
    <div className="center-container">
 
 
-  <div className="p-5 bg-light border rounded">
+    <div>
 
-  {/* Moving Banner */}
-  <div className="moving-banner">
-    <div className="banner-track">
-      <h1 className="cool-text">Hip/Hop Dallas Music</h1>
+</div>
+
+
+    <div className="video-container">
+  <iframe
+    width="800"
+    height="450"
+    src="https://www.youtube.com/embed/At_3SHY3EqU"
+    title="North Texas Underground (NTU) Paradise Summer Vol.1"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
+
+  <div style={{ display: 'flex', width: '100%' }}>
+  {/* Left: Moving Banner */}
+  <div style={{ width: '50%' }}>
+    <div className="moving-banner">
+      <div className="banner-track">
+        <h1 className="cool-text">Hip/Hop Dallas Music</h1>
+      </div>
     </div>
   </div>
+
+  {/* Right: Videos Button */}
+  <div
+    style={{
+      width: '50%',
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundColor: '#001f1f',
+      padding: '20px'
+    }}
+  >
+    <a
+      href="/#video-table"
+      style={{
+        display: 'inline-block',
+        padding: '12px 24px',
+        backgroundColor: '#003f3f',
+        borderRadius: '25px',
+        color: '#00e6e6',
+        fontWeight: 'bold',
+        fontFamily: 'Orbitron, sans-serif',
+        textDecoration: 'none',
+        boxShadow: '0 0 10px rgba(0, 255, 255, 0.5)',
+        transition: 'all 0.3s ease-in-out'
+      }}
+      onMouseOver={(e) => (e.target.style.backgroundColor = '#005050')}
+      onMouseOut={(e) => (e.target.style.backgroundColor = '#003f3f')}
+    >
+      Videos
+    </a>
+
+
+  </div>
 </div>
+
+
 
 {/* Image Banner Section */}
 <div className="bg-light border-top border-bottom py-4">
@@ -61,6 +119,8 @@ function App() {
       }}
     />
   ))}
+
+  
 
 </div>
 
@@ -143,12 +203,44 @@ function App() {
         <td>Ultra Bz</td>
         <td><a href="https://ffm.to/p0k6qga" target="_blank">Listen</a></td>
       </tr>
+
+      <tr>
+        <td>North Texas Underground (NTU)</td>
+        <td>Paradise Summer Vol.1 2025 Mix</td>
+        <td><a href="https://www.youtube.com/watch?v=At_3SHY3EqU" target="_blank">Listen</a></td>
+      </tr>
       
     </tbody>
   </table>
 
+
+
   </div>
 
+  
+<div className="table-responsive" id="video-table">
+<table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>By</th>
+        <th>Video</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr>
+        <td>house of parties</td>
+        <td>Lil Sonata</td>
+        <td><a href="https://www.youtube.com/watch?v=6-7vH8IHmwQ">Watch</a></td>
+      </tr>
+
+      
+      
+    </tbody>
+  </table>
+
+</div>
 
 
 </div>
