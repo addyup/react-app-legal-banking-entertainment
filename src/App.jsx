@@ -300,6 +300,18 @@ function App() {
         <td>Ed Sheeran</td>
         <td><a href="https://www.youtube.com/watch?v=eJ5jwYjNc8s&list=RDsUf2PtEZris&index=14">Watch</a></td>
       </tr>
+
+      <tr>
+        <td>Psycho</td>
+        <td>Post Malone</td>
+        <td><a href="https://www.youtube.com/watch?v=au2n7VVGv_c&list=RDsUf2PtEZris&index=5">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Chameli Phoola</td>
+        <td>Kuma Sagar</td>
+        <td><a href="https://www.youtube.com/watch?v=bAInQtdFHlE&list=RDbAInQtdFHlE&start_radio=1">Watch</a></td>
+      </tr>
       
       
       
