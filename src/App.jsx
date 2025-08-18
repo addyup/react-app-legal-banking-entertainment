@@ -294,6 +294,12 @@ function App() {
         <td>6LACK</td>
         <td><a href="https://www.youtube.com/watch?v=iSgUMPHQEWw&list=RDiSgUMPHQEWw&start_radio=1">Watch</a></td>
       </tr>
+
+      <tr>
+        <td>Shape of You</td>
+        <td>Ed Sheeran</td>
+        <td><a href="https://www.youtube.com/watch?v=eJ5jwYjNc8s&list=RDsUf2PtEZris&index=14">Watch</a></td>
+      </tr>
       
       
       
