@@ -88,8 +88,7 @@ function App() {
 {/* Image Banner Section */}
 <div className="bg-light border-top border-bottom py-4">
   
-
-<div className="d-flex flex-wrap justify-content-center align-items-center gap-3">
+<div className="responsive-flex-container d-flex flex-row flex-wrap justify-content-center align-items-center gap-3">
 
   {/* Main Logo */}
   <img
@@ -99,7 +98,6 @@ function App() {
     style={{
       height: '150px',
       objectFit: 'contain',
-      width: 'auto',
       maxWidth: '100%',
     }}
   />
@@ -114,17 +112,12 @@ function App() {
       style={{
         height: '150px',
         objectFit: 'cover',
-        width: 'auto',
         maxWidth: '100%',
       }}
     />
   ))}
 
-  
-
 </div>
-
-
 </div>
 
 

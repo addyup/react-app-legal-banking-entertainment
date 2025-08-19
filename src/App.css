@@ -150,3 +150,8 @@ table {
   border-radius: 12px;
   box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
 }
+@media (max-width: 457px) {
+  .responsive-flex-container {
+    flex-direction: column !important;
+  }
+}
