@@ -282,8 +282,8 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=IoVw39MeEjc&list=RDIoVw39MeEjc&start_radio=1">Watch</a></td>
       </tr>
 
-      <tr>
-        <td className="neon-red">$ave Dat Money</td>
+      <tr className="neon-red">
+        <td >$ave Dat Money</td>
         <td>Lil Dicky</td>
         <td><a href="https://www.youtube.com/watch?v=yvHYWD29ZNY&list=RDyvHYWD29ZNY&start_radio=1">Watch</a></td>
       </tr>
