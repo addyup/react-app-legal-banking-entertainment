@@ -240,13 +240,13 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=oAVhUAaVCVQ&list=RDo1RducJbUdc&index=2">Watch</a></td>
       </tr>
 
-      <tr>
+      <tr className="neon-red">
         <td>Shaky</td>
         <td>Sanju Rathod Ft. Isha Malviya</td>
         <td><a href="https://www.youtube.com/watch?v=sUf2PtEZris&list=RDsUf2PtEZris&start_radio=1">Watch</a></td>
       </tr>
 
-      <tr>
+      <tr className="neon-red">
         <td>Bartender</td>
         <td>T-Pain</td>
         <td><a href="https://www.youtube.com/watch?v=Lt2wjJlP2N4&list=RDsUf2PtEZris&index=2">Watch</a></td>
@@ -264,14 +264,14 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=DK_0jXPuIr0&list=RDDK_0jXPuIr0&start_radio=1">Watch</a></td>
       </tr>
 
-      <tr>
+      <tr className="neon-red">
         <td>Apparently</td>
         <td>J. Cole</td>
         <td><a href="https://www.youtube.com/watch?v=eRaFMlZ1YHA&list=RDeRaFMlZ1YHA&start_radio=1">Watch</a></td>
       </tr>
 
       <tr>
-        <td>XO Tour Llif3</td>
+        <td className="neon-red">XO Tour Llif3</td>
         <td>Lil Uzi Vert</td>
         <td><a href="https://www.youtube.com/watch?v=WrsFXgQk5UI&list=RDeRaFMlZ1YHA&index=4">Watch</a></td>
       </tr>
@@ -283,7 +283,7 @@ function App() {
       </tr>
 
       <tr>
-        <td>$ave Dat Money</td>
+        <td className="neon-red">$ave Dat Money</td>
         <td>Lil Dicky</td>
         <td><a href="https://www.youtube.com/watch?v=yvHYWD29ZNY&list=RDyvHYWD29ZNY&start_radio=1">Watch</a></td>
       </tr>
@@ -312,7 +312,7 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=bAInQtdFHlE&list=RDbAInQtdFHlE&start_radio=1">Watch</a></td>
       </tr>
 
-      <tr>
+      <tr className="neon-red">
         <td>Lemonade</td>
         <td>Internet Money Don Toliver, Gunna & Nav</td>
         <td><a href="https://www.youtube.com/watch?v=0opZqh_TprM&list=RDMM&start_radio=1&rv=hT_nvWreIhg">Watch</a></td>
@@ -325,7 +325,7 @@ function App() {
       </tr>
       
       <tr>
-        <td>Can't Get Enough</td>
+        <td className="neon-red">Can't Get Enough</td>
         <td>J. Cole Ft. Trey Songz</td>
         <td><a href="https://www.youtube.com/watch?v=zI1eLwVuSeI&list=RDzI1eLwVuSeI&start_radio=1">Watch</a></td>
       </tr>
@@ -334,6 +334,12 @@ function App() {
         <td>Lost Ones</td>
         <td>J. Cole</td>
         <td><a href="https://www.youtube.com/watch?v=it-DvwBAkxw&list=RDzI1eLwVuSeI&index=2">Watch</a></td>
+      </tr>
+
+      <tr className="neon-red">
+        <td>This Is What You Came For</td>
+        <td>Calvin Harris, Rihanna</td>
+        <td><a href="https://www.youtube.com/watch?v=kOkQ4T5WO9E&list=RDkOkQ4T5WO9E&start_radio=1">Watch</a></td>
       </tr>
       
       
