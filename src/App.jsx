@@ -324,6 +324,17 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=YcSP1ZUf1eQ&list=RDMM&index=2">Watch</a></td>
       </tr>
       
+      <tr>
+        <td>Can't Get Enough</td>
+        <td>J. Cole Ft. Trey Songz</td>
+        <td><a href="https://www.youtube.com/watch?v=zI1eLwVuSeI&list=RDzI1eLwVuSeI&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Lost Ones</td>
+        <td>J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=it-DvwBAkxw&list=RDzI1eLwVuSeI&index=2">Watch</a></td>
+      </tr>
       
       
     </tbody>
