@@ -218,6 +218,7 @@ function App() {
 
   
 <div className="table-responsive" id="video-table">
+  <h1>Addys Playlist</h1>
 <table>
     <thead>
       <tr>
@@ -227,6 +228,24 @@ function App() {
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <td>Jelly Roll</td>
+        <td>NEED A FAVOR</td>
+        <td><a href="https://www.youtube.com/watch?v=P1nRboaLTzU&list=RDP1nRboaLTzU&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Lego House</td>
+        <td>Ed Sheeran</td>
+        <td><a href="https://www.youtube.com/watch?v=c4BLVznuWnU&list=RDc4BLVznuWnU&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Hey, Soul Sister</td>
+        <td>Train</td>
+        <td><a href="https://www.youtube.com/watch?v=kVpv8-5XWOI&list=RDkVpv8-5XWOI&start_radio=1">Watch</a></td>
+      </tr>
 
       <tr>
         <td>house of parties</td>
