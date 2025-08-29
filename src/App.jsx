@@ -295,8 +295,8 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=eRaFMlZ1YHA&list=RDeRaFMlZ1YHA&start_radio=1">Watch</a></td>
       </tr>
 
-      <tr>
-        <td className="neon-red">XO Tour Llif3</td>
+      <tr className="neon-red">
+        <td >XO Tour Llif3</td>
         <td>Lil Uzi Vert</td>
         <td><a href="https://www.youtube.com/watch?v=WrsFXgQk5UI&list=RDeRaFMlZ1YHA&index=4">Watch</a></td>
       </tr>
@@ -349,8 +349,8 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=YcSP1ZUf1eQ&list=RDMM&index=2">Watch</a></td>
       </tr>
       
-      <tr>
-        <td className="neon-red">Can't Get Enough</td>
+      <tr className="neon-red">
+        <td >Can't Get Enough</td>
         <td>J. Cole Ft. Trey Songz</td>
         <td><a href="https://www.youtube.com/watch?v=zI1eLwVuSeI&list=RDzI1eLwVuSeI&start_radio=1">Watch</a></td>
       </tr>
@@ -359,6 +359,30 @@ function App() {
         <td>Lost Ones</td>
         <td>J. Cole</td>
         <td><a href="https://www.youtube.com/watch?v=it-DvwBAkxw&list=RDzI1eLwVuSeI&index=2">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>All I Do</td>
+        <td>Logic</td>
+        <td><a href="https://www.youtube.com/watch?v=eIGh4Nc1fAM&list=RDeIGh4Nc1fAM&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>PRBLMS</td>
+        <td>6LACK</td>
+        <td><a href="https://www.youtube.com/watch?v=fS9m0Ac8PCU&list=RDfS9m0Ac8PCU&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr className="neon-red">
+        <td >All In My Head</td>
+        <td>BKAYE</td>
+        <td><a href="https://www.youtube.com/watch?v=nwDhSPFPPeo&list=RDnwDhSPFPPeo&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr className="neon-red">
+        <td >Midtown</td>
+        <td>DUKI</td>
+        <td><a href="https://www.youtube.com/watch?v=rSEd7vZo6Lk&list=RDrSEd7vZo6Lk&start_radio=1">Watch</a></td>
       </tr>
 
       <tr className="neon-red">
