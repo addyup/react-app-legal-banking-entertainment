@@ -375,7 +375,7 @@ function App() {
 
       <tr>
         <td>PRBLMS</td>
-        <td>6LACK</td>
+        <td className="neon-red">6LACK</td>
         <td><a href="https://www.youtube.com/watch?v=fS9m0Ac8PCU&list=RDfS9m0Ac8PCU&start_radio=1">Watch</a></td>
       </tr>
 
@@ -479,8 +479,50 @@ function App() {
 
       <tr>
         <td>Ballin’</td>
-        <td>Mustard</td>
+        <td>Mustard Roddy</td>
         <td><a href="https://www.youtube.com/watch?v=YS0h2-hy9rw&list=RDeUUuI--jAlM&index=29">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Aquarius III</td>
+        <td>Logic</td>
+        <td><a href="https://www.youtube.com/watch?v=gfcBswn2nH8&list=RDeUUuI--jAlM&index=27">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Headlines</td>
+        <td>Drake</td>
+        <td><a href="https://www.youtube.com/watch?v=cimoNqiulUE&list=RDeUUuI--jAlM&index=27">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>KYLE</td>
+        <td>iSpy feat. Lil Yachty</td>
+        <td><a href="https://www.youtube.com/watch?v=5XK4v2fgMPU&list=RDeUUuI--jAlM&index=28">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Unforgettable ft. Swae Lee</td>
+        <td>French Montana</td>
+        <td><a href="https://www.youtube.com/watch?v=5XK4v2fgMPU&list=RDeUUuI--jAlM&index=28">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Sativa t. Rae Sremmurd</td>
+        <td>Jhené Aiko</td>
+        <td><a href="https://www.youtube.com/watch?v=5x-d3pabd5o&list=RDeUUuI--jAlM&index=28">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Faucet Failure</td>
+        <td>Ski Mask The Slump God</td>
+        <td><a href="https://www.youtube.com/watch?v=tbhxSeaiMiU&list=RDeUUuI--jAlM&index=28">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Catch Me Outside (Official Music Video)</td>
+        <td>Ski Mask The Slump God</td>
+        <td><a href="https://www.youtube.com/watch?v=JpIlnaAmiCg&list=RDJpIlnaAmiCg&start_radio=1">Watch</a></td>
       </tr>
       
     </tbody>
