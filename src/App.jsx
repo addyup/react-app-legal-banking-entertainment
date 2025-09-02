@@ -402,16 +402,56 @@ function App() {
         <td>Last Night</td>
         <td>Morgan Wallen</td>
         <td><a href="https://www.youtube.com/watch?v=kOkQ4T5WO9E&list=RDkOkQ4T5WO9E&start_radio=1">Watch</a></td>
-        {/* <td><iframe src="https://www.youtube.com/watch?v=kOkQ4T5WO9E&list=RDkOkQ4T5WO9E&start_radio=1" frameborder="0"></iframe></td> */}
       </tr>
 
       <tr>
         <td>Party In The U.S.A.</td>
         <td>Miley Cyrus</td>
         <td><a href="https://www.youtube.com/watch?v=M11SvDtPBhA&list=RDbUjPPBxbQrQ&index=6">Watch</a></td>
-        {/* <td><iframe src="https://www.youtube.com/watch?v=M11SvDtPBhA&list=RDbUjPPBxbQrQ&index=6" frameborder="0"></iframe></td> */}
+      </tr>
+
+      <tr>
+        <td>Under The Sun</td>
+        <td>Dreamville</td>
+        <td><a href="https://www.youtube.com/watch?v=eUUuI--jAlM&list=RDeUUuI--jAlM&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>T-Shirt</td>
+        <td>Migos</td>
+        <td><a href="https://www.youtube.com/watch?v=1VUa99-tJqs&list=RD1VUa99-tJqs&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>GNAT</td>
+        <td>Eminem</td>
+        <td><a href="https://www.youtube.com/watch?v=EosMazKaPbU&list=RDeUUuI--jAlM&index=8">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Everybody Dies</td>
+        <td>J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=-5slZHLSnow&list=RDeUUuI--jAlM&index=11">Watch</a></td>
       </tr>
       
+      <tr>
+        <td className="neon-red">Sideline Story</td>
+        <td>J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=_h82Y-9GMJ8&list=RDeUUuI--jAlM&index=12">Watch</a></td>
+      </tr>
+
+
+      <tr>
+        <td className="neon-red">Count Me Out</td>
+        <td>Kendrick Lamar</td>
+        <td><a href="https://www.youtube.com/watch?v=5GhhVHpPR_M&list=RDeUUuI--jAlM&index=14">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Godzilla</td>
+        <td>Eminem</td>
+        <td><a href="https://www.youtube.com/watch?v=r_0JjYUe5jo&list=RDeUUuI--jAlM&index=20">Watch</a></td>
+      </tr>
       
     </tbody>
   </table>
