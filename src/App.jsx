@@ -386,6 +386,12 @@ function App() {
       </tr>
 
       <tr className="neon-red">
+        <td >changes</td>
+        <td>XXXTENTACION</td>
+        <td><a href="https://www.youtube.com/watch?v=f0bbDFRYD_A&list=RDf0bbDFRYD_A&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr className="neon-red">
         <td >Midtown</td>
         <td>DUKI</td>
         <td><a href="https://www.youtube.com/watch?v=rSEd7vZo6Lk&list=RDrSEd7vZo6Lk&start_radio=1">Watch</a></td>
