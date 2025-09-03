@@ -530,6 +530,18 @@ function App() {
         <td>Ski Mask The Slump God</td>
         <td><a href="https://www.youtube.com/watch?v=JpIlnaAmiCg&list=RDJpIlnaAmiCg&start_radio=1">Watch</a></td>
       </tr>
+
+      <tr>
+        <td>I Had Some Help</td>
+        <td>Post Malone</td>
+        <td><a href="https://www.youtube.com/watch?v=4QIZE708gJ4&list=RDbUjPPBxbQrQ&index=3">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>luther</td>
+        <td>Kendrick Lamar & SZA</td>
+        <td><a href="https://www.youtube.com/watch?v=sNY_2TEmzho&list=RDbUjPPBxbQrQ&index=4">Watch</a></td>
+      </tr>
       
     </tbody>
   </table>
