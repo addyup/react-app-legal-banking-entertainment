@@ -230,6 +230,24 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Been On</td>
+        <td>G-Eazy</td>
+        <td><a href="https://www.youtube.com/watch?v=oQa8Rv-Vq-Y&list=RDoQa8Rv-Vq-Y&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Every Season</td>
+        <td>Roddy Ricch</td>
+        <td><a href="https://www.youtube.com/watch?v=jd-VdQNRUHs&list=RD0opZqh_TprM&index=5">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Habits</td>
+        <td>Tove Lo</td>
+        <td><a href="https://www.youtube.com/watch?v=oh2LWWORoiM&list=RD2vjPBrBU-TM&index=2">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>I'm Not The Only One</td>
         <td>DJ Khaled</td>
         <td><a href="https://www.youtube.com/watch?v=weeI1G46q0o&list=RDbUjPPBxbQrQ&index=7">Watch</a></td>
@@ -460,12 +478,6 @@ function App() {
       </tr>
 
       <tr>
-        <td>Godzilla</td>
-        <td>Eminem</td>
-        <td><a href="https://www.youtube.com/watch?v=r_0JjYUe5jo&list=RDeUUuI--jAlM&index=20">Watch</a></td>
-      </tr>
-
-      <tr>
         <td>ZEZE</td>
         <td>Kodak Black</td>
         <td><a href="https://www.youtube.com/watch?v=EfHNIPXTxy0&list=RDeUUuI--jAlM&index=23">Watch</a></td>
@@ -541,6 +553,18 @@ function App() {
         <td>luther</td>
         <td>Kendrick Lamar & SZA</td>
         <td><a href="https://www.youtube.com/watch?v=sNY_2TEmzho&list=RDbUjPPBxbQrQ&index=4">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>luther</td>
+        <td>Kendrick Lamar & SZA</td>
+        <td><a href="https://www.youtube.com/watch?v=sNY_2TEmzho&list=RDbUjPPBxbQrQ&index=4">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Chandelier</td>
+        <td>Sia</td>
+        <td><a href="https://www.youtube.com/watch?v=2vjPBrBU-TM&list=RD2vjPBrBU-TM&start_radio=1">Watch</a></td>
       </tr>
       
     </tbody>
