@@ -230,6 +230,42 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Blueberry Faygo</td>
+        <td>Lil Mosey</td>
+        <td><a href="https://www.youtube.com/watch?v=V_jHc_n0p9c&list=RDV_jHc_n0p9c&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Lucid Dreams</td>
+        <td>Juice WRLD</td>
+        <td><a href="https://www.youtube.com/watch?v=mzB1VGEGcSU&list=RDmzB1VGEGcSU&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>The Story of O.J.</td>
+        <td>JAY-Z</td>
+        <td><a href="https://www.youtube.com/watch?v=RM7lw0Ovzq0&list=RDRM7lw0Ovzq0&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Over</td>
+        <td>Drake</td>
+        <td><a href="https://www.youtube.com/watch?v=2lTB1pIg1y0&list=RD2lTB1pIg1y0&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Just A Dream</td>
+        <td>Nelly</td>
+        <td><a href="https://www.youtube.com/watch?v=N6O2ncUKvlg&list=RDCHVhwcOg6y8&index=5">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>SICKO MODE</td>
+        <td>Travis Scott</td>
+        <td><a href="https://www.youtube.com/watch?v=6ONRf7h3Mdk&list=RDoQa8Rv-Vq-Y&index=10">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Been On</td>
         <td>G-Eazy</td>
         <td><a href="https://www.youtube.com/watch?v=oQa8Rv-Vq-Y&list=RDoQa8Rv-Vq-Y&start_radio=1">Watch</a></td>
