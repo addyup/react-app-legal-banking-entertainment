@@ -230,6 +230,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Hopeless Romantic</td>
+        <td>Wiz Khalifa</td>
+        <td><a href="https://www.youtube.com/watch?v=9VH0fUABBjY&list=RD9VH0fUABBjY&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Blueberry Faygo</td>
         <td>Lil Mosey</td>
         <td><a href="https://www.youtube.com/watch?v=V_jHc_n0p9c&list=RDV_jHc_n0p9c&start_radio=1">Watch</a></td>
@@ -282,6 +288,19 @@ function App() {
         <td>Tove Lo</td>
         <td><a href="https://www.youtube.com/watch?v=oh2LWWORoiM&list=RD2vjPBrBU-TM&index=2">Watch</a></td>
       </tr>
+
+      <tr>
+        <td>Really Really</td>
+        <td>Kevin Gates</td>
+        <td><a href="https://www.youtube.com/watch?v=pR0VsbyZxWg&list=RDpR0VsbyZxWg&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>About The Money</td>
+        <td>T.I. ft Young Thug</td>
+        <td><a href="https://www.youtube.com/watch?v=pR0VsbyZxWg&list=RDpR0VsbyZxWg&start_radio=1">Watch</a></td>
+      </tr>
+
 
       <tr>
         <td>I'm Not The Only One</td>
