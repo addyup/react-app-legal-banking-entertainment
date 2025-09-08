@@ -230,6 +230,24 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Better</td>
+        <td>Khalid</td>
+        <td><a href="https://www.youtube.com/watch?v=x3bfa3DZ8JM&list=RDx3bfa3DZ8JM&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Koi Mil Gaya</td>
+        <td>Udit Narayan | K.S. Chitra</td>
+        <td><a href="https://www.youtube.com/watch?v=Foh01tG09Nk&list=RDFoh01tG09Nk&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Dream By Dream</td>
+        <td>Sneaky Little Devil</td>
+        <td><a href="https://www.youtube.com/watch?v=TpZUfsV_klk&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&start_radio=1&rv=wPah_tGMkVc">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Koi Mil Gaya</td>
         <td>Udit Narayan | K.S. Chitra</td>
         <td><a href="https://www.youtube.com/watch?v=Foh01tG09Nk&list=RDFoh01tG09Nk&start_radio=1">Watch</a></td>
