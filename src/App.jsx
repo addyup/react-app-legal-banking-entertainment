@@ -230,6 +230,24 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Koi Mil Gaya</td>
+        <td>Udit Narayan | K.S. Chitra</td>
+        <td><a href="https://www.youtube.com/watch?v=Foh01tG09Nk&list=RDFoh01tG09Nk&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Umbrella</td>
+        <td>Rihanna ft. JAY-Z</td>
+        <td><a href="https://www.youtube.com/watch?v=CvBfHwUxHIk&list=RDCvBfHwUxHIk&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Rolex</td>
+        <td>Ayo & Teo</td>
+        <td><a href="https://www.youtube.com/watch?v=lwk5OUII9Vc&list=RDlwk5OUII9Vc&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Hopeless Romantic</td>
         <td>Wiz Khalifa</td>
         <td><a href="https://www.youtube.com/watch?v=9VH0fUABBjY&list=RD9VH0fUABBjY&start_radio=1">Watch</a></td>
