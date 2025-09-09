@@ -124,7 +124,28 @@ function App() {
  <div className="table-responsive">
 
     
-    
+  <h1>Feel like freestyling?</h1> 
+  
+   <table>
+    <thead>
+      <tr>
+        <th>Beat</th>
+        <th>Song/Artists</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr>
+        <td>Show Me (Instrumental)</td>
+        <td>Kid Ink Ft. Chris Brown </td>
+        <td><a href="https://www.youtube.com/watch?v=5aoejNybQJo&list=RD5aoejNybQJo&start_radio=1" target="_blank">Freestyle Go!</a></td>
+      </tr>
+
+      
+      
+    </tbody>
+  </table>
    
 
 <table>
