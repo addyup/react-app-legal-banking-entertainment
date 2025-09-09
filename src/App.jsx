@@ -230,6 +230,48 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Golden Touch of Jagjit Singh</td>
+        <td>Longer Playlist</td>
+        <td><a href="https://www.youtube.com/watch?v=vz2OlQ5XY6E&list=RDvz2OlQ5XY6E&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>TEAR$</td>
+        <td>Post Malone</td>
+        <td><a href="https://www.youtube.com/watch?v=vz2OlQ5XY6E&list=RDvz2OlQ5XY6E&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Ayo</td>
+        <td>Chris Brown, Tyga</td>
+        <td><a href="https://www.youtube.com/watch?v=zKCrSN9oXgQ&list=RDzKCrSN9oXgQ&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>What's Up</td>
+        <td>Post Malone Feat. 1st</td>
+        <td><a href="https://www.youtube.com/watch?v=6fHyVkdgVw8&list=RD6fHyVkdgVw8&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Too Young</td>
+        <td>Post Malone</td>
+        <td><a href="https://www.youtube.com/watch?v=gfGiCjzz8TE">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Star Shopping</td>
+        <td>Lil Peep</td>
+        <td><a href="https://www.youtube.com/watch?v=UBMuucEmfkg&list=RDUBMuucEmfkg&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Count Me Out</td>
+        <td>Kendrick Lamar</td>
+        <td><a href="https://www.youtube.com/watch?v=W5hSdGt2M8w&list=RDwvFDXV0VBg4&index=5">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>False Prophets</td>
         <td>J. Cole</td>
         <td><a href="https://www.youtube.com/watch?v=wvFDXV0VBg4&list=RDwvFDXV0VBg4&start_radio=1">Watch</a></td>
