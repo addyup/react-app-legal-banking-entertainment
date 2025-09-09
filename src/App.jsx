@@ -230,6 +230,24 @@ function App() {
     <tbody>
 
       <tr>
+        <td>False Prophets</td>
+        <td>J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=wvFDXV0VBg4&list=RDwvFDXV0VBg4&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>With You</td>
+        <td>Chris Brown</td>
+        <td><a href="https://www.youtube.com/watch?v=nmjdaBaZe8Y&list=RDnmjdaBaZe8Y&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Love You Like A Love Song</td>
+        <td>Selena Gomez & The Scene</td>
+        <td><a href="https://www.youtube.com/watch?v=EgT_us6AsDg&list=RDvGPG91x5eMY&index=3">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Pyramid</td>
         <td>Charice</td>
         <td><a href="https://www.youtube.com/watch?v=vGPG91x5eMY&list=RDvGPG91x5eMY&start_radio=1">Watch</a></td>
