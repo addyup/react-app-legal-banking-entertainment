@@ -142,6 +142,12 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=5aoejNybQJo&list=RD5aoejNybQJo&start_radio=1" target="_blank">Freestyle Go!</a></td>
       </tr>
 
+      <tr>
+        <td>New-Flame (Instrumental)</td>
+        <td>Chris-Brown Ft.Usher Rick Ross</td>
+        <td><a href="https://www.youtube.com/watch?v=4MlvzvJkE7E&list=RD4MlvzvJkE7E&start_radio=1" target="_blank">Freestyle Go!</a></td>
+      </tr>
+
       
       
     </tbody>
