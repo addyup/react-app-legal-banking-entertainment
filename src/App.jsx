@@ -329,6 +329,18 @@ function App() {
       </tr>
 
       <tr>
+        <td>Miss Me</td>
+        <td>Chris Brown ft. Tyga, Kevin McCall</td>
+        <td><a href="https://www.youtube.com/watch?v=9RUSRxTpI80&list=RD9RUSRxTpI80&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Deuces</td>
+        <td>Drake ft. Lil Wayne</td>
+        <td><a href="https://www.youtube.com/watch?v=TRLSQDCkcaA&list=RDTRLSQDCkcaA&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Pyramid</td>
         <td>Charice</td>
         <td><a href="https://www.youtube.com/watch?v=vGPG91x5eMY&list=RDvGPG91x5eMY&start_radio=1">Watch</a></td>
