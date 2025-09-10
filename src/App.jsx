@@ -257,6 +257,18 @@ function App() {
     <tbody>
 
       <tr>
+        <td>a lot</td>
+        <td>21 Savage ft. J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=DmWWqogr_r8&list=RDlH0Pku7-oe4&index=2">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>You May Enter</td>
+        <td>Addy Up</td>
+        <td><a href="https://www.youtube.com/watch?v=lH0Pku7-oe4&list=RDlH0Pku7-oe4&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Golden Touch of Jagjit Singh</td>
         <td>Longer Playlist</td>
         <td><a href="https://www.youtube.com/watch?v=vz2OlQ5XY6E&list=RDvz2OlQ5XY6E&start_radio=1">Watch</a></td>
@@ -320,6 +332,12 @@ function App() {
         <td>Pyramid</td>
         <td>Charice</td>
         <td><a href="https://www.youtube.com/watch?v=vGPG91x5eMY&list=RDvGPG91x5eMY&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>EvenThoughI (on my way down)</td>
+        <td>Addy Up</td>
+        <td><a href="https://www.youtube.com/watch?v=iaJ1rh6OKx0&list=OLAK5uy_nXWOWJe5XXuPRyjf9ofsDJAXcWPSyx0dk">Watch</a></td>
       </tr>
 
       <tr>
