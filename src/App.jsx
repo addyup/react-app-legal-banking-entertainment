@@ -377,6 +377,24 @@ function App() {
       </tr>
 
       <tr>
+        <td>Cruise</td>
+        <td>Florida Georgia Line</td>
+        <td><a href="https://www.youtube.com/watch?v=8PvebsWcpto&list=RD8PvebsWcpto&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>When It Rains It Pours (Official Video)</td>
+        <td>Luke Combs</td>
+        <td><a href="https://www.youtube.com/watch?v=uXyxFMbqKYA&list=RDuXyxFMbqKYA&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Sunflower (Live From The Studio)</td>
+        <td>Post Malone, Swae Lee</td>
+        <td><a href="https://www.youtube.com/watch?v=Lk0sZwXTwnc">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Dream By Dream</td>
         <td>Sneaky Little Devil</td>
         <td><a href="https://www.youtube.com/watch?v=TpZUfsV_klk&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&start_radio=1&rv=wPah_tGMkVc">Watch</a></td>
