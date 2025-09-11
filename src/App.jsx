@@ -148,6 +148,11 @@ function App() {
         <td><a href="https://www.youtube.com/watch?v=4MlvzvJkE7E&list=RD4MlvzvJkE7E&start_radio=1" target="_blank">Freestyle Go!</a></td>
       </tr>
 
+    <tr>
+        <td>Dollar And A Dream III (Instrumental)</td>
+        <td>J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=iV0zLUOhMHw&list=RDiV0zLUOhMHw&start_radio=1" target="_blank">Freestyle Go!</a></td>
+      </tr>
       
       
     </tbody>
@@ -255,6 +260,12 @@ function App() {
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <td>Project Dreams</td>
+        <td>Marshmello x Roddy Ricch</td>
+        <td><a href="https://www.youtube.com/watch?v=Hn7WDtF3nKA&list=RDHn7WDtF3nKA&start_radio=1">Watch</a></td>
+      </tr>
 
       <tr>
         <td>a lot</td>
@@ -374,6 +385,12 @@ function App() {
         <td>Koi Mil Gaya</td>
         <td>Udit Narayan | K.S. Chitra</td>
         <td><a href="https://www.youtube.com/watch?v=Foh01tG09Nk&list=RDFoh01tG09Nk&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Replay (Prequel) [Music Video] </td>
+        <td>Iyaz</td>
+        <td><a href="https://www.youtube.com/watch?v=WXxV9g7lsFE&list=RDWXxV9g7lsFE&start_radio=1">Watch</a></td>
       </tr>
 
       <tr>
