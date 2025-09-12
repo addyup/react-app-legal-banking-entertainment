@@ -262,6 +262,36 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Joy</td>
+        <td>Wiz Khalifa ft. Post Malone</td>
+        <td><a href="https://www.youtube.com/watch?v=UHRD0aeaDz4&list=RDUHRD0aeaDz4&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Cooler Than Me</td>
+        <td>Mike Posner</td>
+        <td><a href="https://www.youtube.com/watch?v=mqWq_48LxWQ&list=RDmqWq_48LxWQ&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Like A G6</td>
+        <td>Far East Movement</td>
+        <td><a href="https://www.youtube.com/watch?v=w4s6H4ku6ZY&list=RDw4s6H4ku6ZY&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Down The Drain</td>
+        <td>Addy Up</td>
+        <td><a href="https://www.youtube.com/watch?v=q-UasRfCWWw&list=RDq-UasRfCWWw&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>A Thousand Miles</td>
+        <td>Vanessa Carlton</td>
+        <td><a href="https://www.youtube.com/watch?v=Cwkej79U3ek&list=RDCwkej79U3ek&start_radio=1">Watch</a></td>
+      </tr>
+      
+      <tr>
         <td>Project Dreams</td>
         <td>Marshmello x Roddy Ricch</td>
         <td><a href="https://www.youtube.com/watch?v=Hn7WDtF3nKA&list=RDHn7WDtF3nKA&start_radio=1">Watch</a></td>
@@ -283,6 +313,18 @@ function App() {
         <td>Golden Touch of Jagjit Singh</td>
         <td>Longer Playlist</td>
         <td><a href="https://www.youtube.com/watch?v=vz2OlQ5XY6E&list=RDvz2OlQ5XY6E&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Ice On My Baby</td>
+        <td>Yung Bleu ft. Kevin Gates</td>
+        <td><a href="https://www.youtube.com/watch?v=4BijeKQ1MxA&list=RDlwk5OUII9Vc&index=17">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Contra</td>
+        <td>Logic</td>
+        <td><a href="https://www.youtube.com/watch?v=1KwN3s7JZZo&list=RDlwk5OUII9Vc&index=18">Watch</a></td>
       </tr>
 
       <tr>
