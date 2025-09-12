@@ -262,6 +262,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Classic Man</td>
+        <td>Jidenna (Remix) ft. Kendrick Lamar</td>
+        <td><a href="https://www.youtube.com/watch?v=URiDdlAS6ls&list=RDURiDdlAS6ls&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Joy</td>
         <td>Wiz Khalifa ft. Post Malone</td>
         <td><a href="https://www.youtube.com/watch?v=UHRD0aeaDz4&list=RDUHRD0aeaDz4&start_radio=1">Watch</a></td>
