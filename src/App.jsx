@@ -262,9 +262,15 @@ function App() {
     <tbody>
 
       <tr>
+        <td>No Brainer</td>
+        <td>DJ Khaled (Official Video) ft. Justin Bieber, Chance the Rapper, Quavo</td>
+        <td><a href="https://www.youtube.com/watch?v=kxloC1MKTpg&list=RDkxloC1MKTpg&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Tommy Lee</td>
         <td>Tyla Yaweh ft. Post Malone</td>
-        <td><a href="https://www.youtube.com/watch?v=URiDdlAS6ls&list=RDURiDdlAS6ls&start_radio=1">Watch</a></td>
+        <td><a href="https://www.youtube.com/watch?v=nEmehcK7KfQ&list=RDnEmehcK7KfQ&start_radio=1">Watch</a></td>
       </tr>
 
       <tr>
