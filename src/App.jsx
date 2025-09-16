@@ -262,6 +262,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Saint-Tropez</td>
+        <td>Post Malone Saint-Tropez</td>
+        <td><a href="https://www.youtube.com/watch?v=MRyLC2M1K2w&list=RDMRyLC2M1K2w&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>No Brainer</td>
         <td>DJ Khaled (Official Video) ft. Justin Bieber, Chance the Rapper, Quavo</td>
         <td><a href="https://www.youtube.com/watch?v=kxloC1MKTpg&list=RDkxloC1MKTpg&start_radio=1">Watch</a></td>
