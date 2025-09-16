@@ -262,6 +262,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Contra</td>
+        <td>Logic</td>
+        <td><a href="https://www.youtube.com/watch?v=1KwN3s7JZZo&list=RD1KwN3s7JZZo&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Saint-Tropez</td>
         <td>Post Malone Saint-Tropez</td>
         <td><a href="https://www.youtube.com/watch?v=MRyLC2M1K2w&list=RDMRyLC2M1K2w&start_radio=1">Watch</a></td>
