@@ -262,6 +262,24 @@ function App() {
     <tbody>
 
       <tr>
+        <td>JHIM JHIM</td>
+        <td>eha Kakkar & Ekdev Limbu</td>
+        <td><a href="https://www.youtube.com/watch?v=ZLU4rx24024&list=RDZLU4rx24024&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>O jaane Jaan</td>
+        <td>Atif Aslam</td>
+        <td><a href="https://www.youtube.com/watch?v=UQ0GfRyKrLQ&list=RDUQ0GfRyKrLQ&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Chameli Phoola</td>
+        <td>Kuma Sagar And The Khwopa</td>
+        <td><a href="https://www.youtube.com/watch?v=OsvcJE_S01Y&list=RDGMEM916WJxafRUGgOvd6dVJkeQ&start_radio=1&rv=QC0fr438Z30">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Contra</td>
         <td>Logic</td>
         <td><a href="https://www.youtube.com/watch?v=1KwN3s7JZZo&list=RD1KwN3s7JZZo&start_radio=1">Watch</a></td>
