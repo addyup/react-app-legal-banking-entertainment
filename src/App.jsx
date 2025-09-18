@@ -262,8 +262,14 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Bardali</td>
+        <td>Sushant KC</td>
+        <td><a href="https://www.youtube.com/watch?v=HAcLoqZO-Z0&list=RDZLU4rx24024&index=2">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>JHIM JHIM</td>
-        <td>eha Kakkar & Ekdev Limbu</td>
+        <td>Neha Kakkar & Ekdev Limbu</td>
         <td><a href="https://www.youtube.com/watch?v=ZLU4rx24024&list=RDZLU4rx24024&start_radio=1">Watch</a></td>
       </tr>
 
