@@ -170,6 +170,18 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Baacha Bhayo</td>
+        <td>Swoopna & Jyotsna</td>
+        <td><a href="https://www.youtube.com/watch?v=2BH9Fok3EX8&list=RD2BH9Fok3EX8&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Furfuri</td>
+        <td>Kumari Janani</td>
+        <td><a href="https://www.youtube.com/watch?v=sCQDGs7W6mE&list=RDsCQDGs7W6mE&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Teach Me How To Dougie</td>
         <td>Cali Swag District</td>
         <td><a href="https://www.youtube.com/watch?v=PIHtUxnRN0c&list=RDPIHtUxnRN0c&start_radio=1">Watch</a></td>
