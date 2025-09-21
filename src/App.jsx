@@ -170,6 +170,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>MAYA BIRANI</td>
+        <td>Mahesh Kafle ft. Melina Rai | Najir Husen | Aanchal Sharma</td>
+        <td><a href="https://www.youtube.com/watch?v=-kVUygjWVG4&list=RD-kVUygjWVG4&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Baacha Bhayo</td>
         <td>Swoopna & Jyotsna</td>
         <td><a href="https://www.youtube.com/watch?v=2BH9Fok3EX8&list=RD2BH9Fok3EX8&start_radio=1">Watch</a></td>
