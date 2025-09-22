@@ -170,6 +170,18 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Udaayo Mann</td>
+        <td>BEHULI from MEGHAULI</td>
+        <td><a href="https://www.youtube.com/watch?v=OwLvKrenonw&list=RDZLU4rx24024&index=15">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Aila Luwaya</td>
+        <td>Rojman</td>
+        <td><a href="https://www.youtube.com/watch?v=BgLcbFwZ8JU&list=RDZLU4rx24024&index=6">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>MAYA BIRANI</td>
         <td>Mahesh Kafle ft. Melina Rai | Najir Husen | Aanchal Sharma</td>
         <td><a href="https://www.youtube.com/watch?v=-kVUygjWVG4&list=RD-kVUygjWVG4&start_radio=1">Watch</a></td>
