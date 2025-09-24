@@ -170,6 +170,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Rait Zara Si</td>
+        <td>Akshay, Dhanush,Sara,Arijit, Shashaa | Bhushan K</td>
+        <td><a href="https://www.youtube.com/watch?v=aOliIfyH6vI&list=RDZLU4rx24024&index=5">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Udaayo Mann</td>
         <td>BEHULI from MEGHAULI</td>
         <td><a href="https://www.youtube.com/watch?v=OwLvKrenonw&list=RDZLU4rx24024&index=15">Watch</a></td>
