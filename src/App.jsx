@@ -170,6 +170,24 @@ function App() {
     <tbody>
 
       <tr>
+        <td>ISIS</td>
+        <td>Joyner Lucas ft. Logic</td>
+        <td><a href="https://www.youtube.com/watch?v=hTDb0ebFh8E&list=RDhTDb0ebFh8E&start_radio=1">Watch</a></td>
+      </tr> 
+
+      <tr>
+        <td>Flexicution</td>
+        <td>Logic</td>
+        <td><a href="https://www.youtube.com/watch?v=2M6v3KNpJQY&list=RDTLAuRp3xFTE&index=5">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Seventeen</td>
+        <td>Joyner Lucas</td>
+        <td><a href="https://www.youtube.com/watch?v=TLAuRp3xFTE&list=RDTLAuRp3xFTE&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>KILLSHOT</td>
         <td>Eminem</td>
         <td><a href="https://www.youtube.com/watch?v=FxQTY-W6GIo&list=RDFxQTY-W6GIo&start_radio=1">Watch</a></td>
