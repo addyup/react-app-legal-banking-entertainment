@@ -169,7 +169,6 @@ function App() {
     </thead>
     <tbody>
 
-      https://www.youtube.com/watch?v=hJCZet2PMKw&list=RDhJCZet2PMKw&start_radio=1
 
       <tr>
         <td>I STAND ON THAT</td>
