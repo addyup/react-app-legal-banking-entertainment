@@ -169,6 +169,17 @@ function App() {
     </thead>
     <tbody>
 
+      <tr>
+        <td>Tribe</td>
+        <td>Bas with J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=betIekbYy40&list=RDbetIekbYy40&start_radio=1">Watch</a></td>
+      </tr> 
+
+      <tr>
+        <td>The Jackie</td>
+        <td>Bas ft. J. Cole & Lil Tjay</td>
+        <td><a href="https://www.youtube.com/watch?v=betIekbYy40&list=RDbetIekbYy40&start_radio=1">Watch</a></td>
+      </tr> 
 
       <tr>
         <td>I STAND ON THAT</td>
