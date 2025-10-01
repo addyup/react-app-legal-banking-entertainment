@@ -215,6 +215,12 @@ function App() {
     </thead>
     <tbody>
 
+      <tr>
+        <td>Upahaar</td>
+        <td>Swoopna Suman</td>
+        <td><a href="https://www.youtube.com/watch?v=4wIXoekdbsI&list=RDJqZ7Owwt2Cw&index=2">Watch</a></td>
+      </tr> 
+
      <tr>
         <td>Kafle</td>
         <td>Jhuma Limbu | Sujan Chapagain</td>
