@@ -13,7 +13,53 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+   const [isDarkMode, setIsDarkMode] = useState(false)
+
+   const useSunsetDarkMode = (latitude, longitude) => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    // 1. Fetch Sunset Time (Requires an API like Open-Meteo or Sunrise-Sunset)
+    // For this example, we'll use a rough calculation/placeholder:
+    // This is the part you'd replace with a real fetch call
+    
+    // Example: Assume a fetched sunset time of 6:30 PM (18:30)
+    const sunsetHour = 18; // 6 PM
+    const sunsetMinute = 30; // 30 minutes
+
+    // 2. Get Current Time
+    const now = new Date();
+    const currentHour = now.getHours();
+    const currentMinute = now.getMinutes();
+
+    // 3. Check if it's past sunset
+    const isPastSunset = 
+      currentHour > sunsetHour || 
+      (currentHour === sunsetHour && currentMinute >= sunsetMinute);
+    
+    // 4. Update state and DOM
+    if (isPastSunset && !isDarkMode) {
+      setIsDarkMode(true);
+      document.documentElement.classList.add('dark-mode');
+    } else if (!isPastSunset && isDarkMode) {
+      // You'd also need a sunrise check to switch back in the morning!
+      setIsDarkMode(false);
+      document.documentElement.classList.remove('dark-mode');
+    }
+
+    // Optional: Set up a check to run again periodically (e.g., every 5 minutes)
+    const timer = setInterval(() => {
+      // Re-run the logic by triggering a re-render or calling the check again
+      // For simplicity, we'll rely on the component's unmount/remount for a full refresh
+      // but in a real app, you'd want a more frequent check around the sunset time.
+    }, 5 * 60 * 1000); // Check every 5 minutes
+
+    return () => clearInterval(timer);
+
+  }, [isDarkMode, latitude, longitude]); // Re-run if these change
+
+  return isDarkMode;
+};
 
   return (
     
@@ -168,6 +214,12 @@ function App() {
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <td>Kevin's Heart</td>
+        <td>J. Cole</td>
+        <td><a href="https://www.youtube.com/watch?v=ufynqs_COF4&list=RDufynqs_COF4&start_radio=1">Watch</a></td>
+      </tr> 
 
       <tr>
         <td>Tribe</td>
