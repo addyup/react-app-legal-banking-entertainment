@@ -182,6 +182,7 @@ function App() {
     </thead>
     <tbody>
 
+
       <tr>
         <td>Show Me (Instrumental)</td>
         <td>Kid Ink Ft. Chris Brown </td>
@@ -214,6 +215,24 @@ function App() {
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <td>Lucky You</td>
+        <td>Eminem & Joyner Lucas</td>
+        <td><a href="https://www.youtube.com/watch?v=rg44h_X9PNM&list=RDrg44h_X9PNM&start_radio=1">Watch</a></td>
+      </tr> 
+
+      <tr>
+        <td>Immortal</td>
+        <td>Eminem & Evanescence</td>
+        <td><a href="https://www.youtube.com/watch?v=rg44h_X9PNM&list=RDrg44h_X9PNM&start_radio=1">Watch</a></td>
+      </tr> 
+
+      <tr>
+        <td>Timro Photo Heri Heri</td>
+        <td>Bal Kumar Shrestha & Purna Kala BC</td>
+        <td><a href="https://www.youtube.com/watch?v=HlW8BVN-uJk&list=RDMM&index=4">Watch</a></td>
+      </tr> 
 
       <tr>
         <td>Upahaar</td>
