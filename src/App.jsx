@@ -217,6 +217,20 @@ function App() {
     <tbody>
 
       <tr>
+        <td>MAYA BIRANI</td>
+        <td>Mahesh Kafle</td>
+        <td><a href="https://www.youtube.com/watch?v=-kVUygjWVG4&list=RD-kVUygjWVG4&start_radio=1">Watch</a></td>
+        <td></td>
+      </tr>
+
+      <tr>
+        <td>Birsiney Hau Ki</td>
+        <td>The Elements</td>
+        <td><a href="https://www.youtube.com/watch?v=H7bzyggFYSE&list=RDUC3k11aJnnU&index=2">Watch</a></td>
+
+      </tr>
+
+      <tr>
         <td>Lucky You</td>
         <td>Eminem & Joyner Lucas</td>
         <td><a href="https://www.youtube.com/watch?v=rg44h_X9PNM&list=RDrg44h_X9PNM&start_radio=1">Watch</a></td>
