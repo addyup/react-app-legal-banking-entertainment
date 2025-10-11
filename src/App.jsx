@@ -217,17 +217,38 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Tadow</td>
+        <td>FKJ & Masego</td>
+        <td><a href="https://www.youtube.com/watch?v=hC8CH0Z3L54&list=RDCIjXUg1s5gc&index=2">Watch</a></td>
+       
+      </tr>
+
+      <tr>
+        <td>NPR Music Tiny Desk Concert</td>
+        <td>T-Pain</td>
+        <td><a href="https://www.youtube.com/watch?v=CIjXUg1s5gc&list=RDCIjXUg1s5gc&start_radio=1">Watch</a></td>
+       
+      </tr>
+
+      <tr>
+        <td>Shark In The Water</td>
+        <td>V V Brown</td>
+        <td><a href="https://www.youtube.com/watch?v=wPQlxHWsemI&list=RDwPQlxHWsemI&start_radio=1">Watch</a></td>
+       
+      </tr>
+
+      <tr>
         <td>NPR Music Tiny Desk Concert</td>
         <td>Mac Miller</td>
         <td><a href="https://www.youtube.com/watch?v=QrR_gm6RqCo&list=RDQrR_gm6RqCo&start_radio=1">Watch</a></td>
-        <td></td>
+        
       </tr>
 
       <tr> 
         <td>MAYA BIRANI</td>
         <td>Mahesh Kafle</td>
         <td><a href="https://www.youtube.com/watch?v=-kVUygjWVG4&list=RD-kVUygjWVG4&start_radio=1">Watch</a></td>
-        <td></td>
+        
       </tr>
 
       <tr>
