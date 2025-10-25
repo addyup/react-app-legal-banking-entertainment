@@ -217,6 +217,13 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Superpowers</td>
+        <td>Muni Long</td>
+        <td><a href="https://www.youtube.com/watch?v=utFeGJ2KsiA&list=RDutFeGJ2KsiA&start_radio=1">Watch</a></td>
+       
+      </tr>
+
+      <tr>
         <td>Tum Gaye Ho Kyu Raat Baaki Hai</td>
         <td>Jiyein Kyun</td>
         <td><a href="https://www.youtube.com/watch?v=1aQTCPxZre8&list=RD1aQTCPxZre8&start_radio=1">Watch</a></td>
@@ -476,6 +483,18 @@ function App() {
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <td>Trip</td>
+        <td>Ella Mai</td>
+        <td><a href="https://www.youtube.com/watch?v=W16bk86xIY0&list=RDutFeGJ2KsiA&index=3">Watch</a></td>
+      </tr>
+
+      <tr>
+        <td>Ring</td>
+        <td>Cardi B feat. Kehlani</td>
+        <td><a href="https://www.youtube.com/watch?v=kcRWyLMVrFM&list=RDutFeGJ2KsiA&index=2">Watch</a></td>
+      </tr>
 
       <tr>
         <td>Bardali</td>
