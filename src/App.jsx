@@ -485,6 +485,12 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Folded</td>
+        <td>Kehlani</td>
+        <td><a href="https://www.youtube.com/watch?v=14PLRhIEAy8&list=RD14PLRhIEAy8&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Trip</td>
         <td>Ella Mai</td>
         <td><a href="https://www.youtube.com/watch?v=W16bk86xIY0&list=RDutFeGJ2KsiA&index=3">Watch</a></td>
