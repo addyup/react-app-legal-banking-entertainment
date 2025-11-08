@@ -485,8 +485,14 @@ function App() {
     <tbody>
 
       <tr>
+        <td>Ransom</td>
+        <td>Lil Tecca</td>
+        <td><a href="https://www.youtube.com/watch?v=1XzY2ij_vL4&list=RD1XzY2ij_vL4&start_radio=1">Watch</a></td>
+      </tr>
+
+      <tr>
         <td>Under The Influence</td>
-        <td>UChris Brown</td>
+        <td>Chris Brown</td>
         <td><a href="https://www.youtube.com/watch?v=pfxyk1glEq4&list=RD14PLRhIEAy8&index=3">Watch</a></td>
       </tr>
 
