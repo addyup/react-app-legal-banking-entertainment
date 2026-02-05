@@ -44,7 +44,13 @@ function App() {
           
         </div>
       </section>
+<div>
+  <a href="assets/downloads/RocketUI-ARM64.zip" class="download-btn" download>
+    Download RocketUI (ARM64)
+  </a>
 
+  <p class="note">This version is for Apple Silicon Macs (ARM64) only.</p>
+</div>
       
     </div>
   )
