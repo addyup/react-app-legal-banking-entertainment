@@ -4,14 +4,7 @@ function App() {
   return (
     <div className="center-container">
 
-      {/* MOVING BANNER */}
-      <div className="moving-banner">
-        <div className="banner-track">
-          <span className="cool-text">
-            OpenShell — A Modern, Hackable Java Shell • Safe • Extensible • Cross-Platform
-          </span>
-        </div>
-      </div>
+    
 
       {/* HERO */}
       <section className="hero">
@@ -23,7 +16,7 @@ function App() {
 
       {/* WHAT IT IS */}
       <section className="section static-banner">
-        <h2>What is this?</h2>
+        <h2 color='white'>What is this?</h2>
         <p>
           OpenShell is a desktop terminal environment designed for learning,
           extensibility, and safety. It behaves like a real Unix shell while
@@ -71,26 +64,17 @@ function App() {
 
       {/* PACKAGING */}
       <section className="section static-banner">
-        <h2>Cross-Platform Distribution</h2>
+       <div color='white'> <h2>Cross-Platform Distribution</h2>
         <p>Packaged natively using <strong>jpackage</strong>:</p>
         <ul>
           <li>Windows → .exe installer</li>
           <li>macOS → signed .app bundle</li>
           <li>Linux → AppImage / deb</li>
         </ul>
+        </div>
       </section>
 
-      {/* VIDEO */}
-      <div className="video-container">
-        <iframe
-          width="720"
-          height="405"
-          src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-          title="OpenShell Demo"
-          frameBorder="0"
-          allowFullScreen
-        />
-      </div>
+      
 
       {/* CTA */}
       <section className="section cta">
