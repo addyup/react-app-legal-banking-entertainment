@@ -45,8 +45,10 @@ function App() {
         </div>
       </section>
 <div>
-  <a href="https://addyup2025.netlify.app/src/assets/RocketUI-1.1.dmg">Download</a>
-    <p></p> RocketUI (ARM64)
+  <a href="/assets/RocketUI-1.1.dmg" download>
+  Download RocketUI (ARM64)
+</a>
+
   
 
   <p class="note">This version is for Apple Silicon Macs (ARM64) only.</p>
