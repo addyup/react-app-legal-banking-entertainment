@@ -41,15 +41,13 @@ function App() {
             </tbody>
           </table>
 
-          <div>
-            <a href="/assets/RocketUI-mac.zip" download>
+          
+        </div>
+      </section>
+<a href="/assets/downloads/RocketUI-ARM64.zip" download>
   Download RocketUI (ARM64)
 </a>
 <p>Note: This version is for Apple Silicon (ARM64) Macs only.</p>
-
-          </div>
-        </div>
-      </section>
 
       
     </div>
