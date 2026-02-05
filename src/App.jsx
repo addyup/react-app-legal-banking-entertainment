@@ -45,8 +45,8 @@ function App() {
         </div>
       </section>
 <div>
-  Email adwait.uprety21@gmail.com to get your dmg
-    Download RocketUI (ARM64)
+  <a href="src/assets/RocketUI-1.1.dmg">Download</a>
+    <p></p> RocketUI (ARM64)
   
 
   <p class="note">This version is for Apple Silicon Macs (ARM64) only.</p>
