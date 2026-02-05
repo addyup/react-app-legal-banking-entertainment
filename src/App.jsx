@@ -45,7 +45,7 @@ function App() {
         </div>
       </section>
 <div>
-  <a href="assets/RocketUI-mac.zip" class="download-btn" download>
+  <a href="./assets/RocketUI-1.0.dmg" class="download-btn" download>
     Download RocketUI (ARM64)
   </a>
 
