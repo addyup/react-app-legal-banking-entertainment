@@ -45,6 +45,8 @@ function App() {
         </div>
       </section>
 <div>
+  Step 1 Bypass Gatekeeper
+  
   <a href="assets/RocketUI-1.1.dmg" download>
   Download RocketUI (ARM64)
 </a>
