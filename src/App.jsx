@@ -45,7 +45,7 @@ function App() {
         </div>
       </section>
 <div>
-  <a href="src/assets/RocketUI-1.1.dmg">Download</a>
+  <a href="https://addyup2025.netlify.app/src/assets/RocketUI-1.1.dmg">Download</a>
     <p></p> RocketUI (ARM64)
   
 
