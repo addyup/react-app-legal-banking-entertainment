@@ -1,14 +1,21 @@
-import './App.css'
+import './App.css';
 
 function App() {
   return (
     <div className="center-container">
 
-    
+      {/* NAVBAR */}
+      <nav className="navbar">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#development">Development</a></li>
+          <li><a href="#download">Download</a></li>
+          <li><a href="#about">About</a></li>
+        </ul>
+      </nav>
 
       {/* DEVELOPMENT STEPS */}
-      <section className="section">
-
+      <section className="section" id="development">
         <div className="table-responsive">
           <table>
             <thead>
@@ -40,28 +47,30 @@ function App() {
               </tr>
             </tbody>
           </table>
-
-          
         </div>
       </section>
-<div>
 
-  <div class="whatsDifferent?">
-    Auto Complete your commands.
-  </div>
-  <p>Step 1 Bypass Gatekeeper</p>
+      <section id="download">
+        <div className="table-responsive">
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <div className="whatsDifferent">Auto Complete your commands.</div>
+                  <p>Step 1 Bypass Gatekeeper</p>
+                  <a href="assets/RocketUI-1.0.dmg" download>
+                    Download RocketUI (ARM64)
+                  </a>
+                  <p className="note">This version is for Apple Silicon Macs (ARM64) only.</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
 
-  <a href="assets/RocketUI-1.0.dmg" download>
-  Download RocketUI (ARM64)
-</a>
-
-  
-
-  <p class="note">This version is for Apple Silicon Macs (ARM64) only.</p>
-</div>
-      
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
