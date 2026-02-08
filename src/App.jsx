@@ -45,9 +45,13 @@ function App() {
         </div>
       </section>
 <div>
-  Step 1 Bypass Gatekeeper
-  
-  <a href="assets/RocketUI-1.1.dmg" download>
+
+  <div class="whatsDifferent?">
+    Auto Complete your commands.
+  </div>
+  <p>Step 1 Bypass Gatekeeper</p>
+
+  <a href="assets/RocketUI-1.0.dmg" download>
   Download RocketUI (ARM64)
 </a>
 
