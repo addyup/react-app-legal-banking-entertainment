@@ -108,6 +108,18 @@ a:hover {
   margin: 10px 0;
   color: #0ff;
 }
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.center-image {
+  max-width: 80%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 255, 150, 0.3);
+}
 
 /* Terminal style for instructions */
 .terminal-step {

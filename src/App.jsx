@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="center-container">
 
-      {/* NAVBAR */}
+      {/* NAVBAR 
       <nav className="navbar">
         <ul>
           <li><a href="#home">Home</a></li>
@@ -13,7 +13,12 @@ function App() {
           <li><a href="#about">About</a></li>
         </ul>
       </nav>
+      */}
 
+      <h1 className="section">Cool command prompt for 99 cents only!</h1>
+<div className="image-wrapper">
+  <img src="assets/Screenshot 2026-02-11 at 5.19.08 PM.png" alt="RocketUI Screenshot" className="center-image" />
+</div>
       {/* DEVELOPMENT STEPS */}
       <section className="section" id="development">
         <div className="table-responsive">
