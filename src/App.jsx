@@ -62,11 +62,20 @@ function App() {
               <tr>
                 <td>
                   <div className="whatsDifferent">Auto Complete your commands.</div>
-                  <p>Step 1 Bypass Gatekeeper</p>
+                  <p><strong>Step 1: Open the app if macOS shows a verification warning</strong></p>
+<ol className="install-steps">
+  <li>Download and open the RocketUI DMG.</li>
+  <li>Drag RocketUI into the Applications folder.</li>
+  <li>Try opening the app once (macOS may block it).</li>
+  <li>Go to <b>System Settings → Privacy & Security</b>.</li>
+  <li>Scroll down to the Security section and click <b>Open Anyway</b> next to RocketUI.</li>
+  <li>Confirm <b>Open</b>.</li>
+</ol>
+
                   <a href="assets/RocketUI-1.0.dmg" download>
                     Download RocketUI (ARM64)
                   </a>
-                  <p className="note">This version is for Apple Silicon Macs (ARM64) only.</p>
+                  <p className="note">This version is for Apple Silicon Macs (ARM64) only. (Later will be available for windows and linux so please support!)</p>
                 </td>
               </tr>
             </tbody>
