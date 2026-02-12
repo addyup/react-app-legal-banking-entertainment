@@ -21,6 +21,11 @@ function App() {
 <h1 className="section">
   For apple silicon <span className="green-word">only</span>
 </h1>
+<div className='section'>
+  <h4 className='section'>Hit c then tab to autocomplete commands, (works on other commands!)</h4>
+</div>
+
+
 
 <div className="image-wrapper">
   <img src="assets/Screenshot 2026-02-11 at 5.19.08 PM.png" alt="RocketUI Screenshot" className="center-image" />
