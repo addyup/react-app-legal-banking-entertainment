@@ -15,7 +15,13 @@ function App() {
       </nav>
       */}
 
-      <h1 className="section">Cool command prompt for 99 cents only!</h1>
+      <h1 className="section">
+  Cool command prompt for 99 cents <span className="green-word">only</span>!
+</h1>
+<h1 className="section">
+  For apple silicon <span className="green-word">only</span>
+</h1>
+
 <div className="image-wrapper">
   <img src="assets/Screenshot 2026-02-11 at 5.19.08 PM.png" alt="RocketUI Screenshot" className="center-image" />
 </div>
@@ -63,6 +69,8 @@ function App() {
                 <td>
                   <div className="whatsDifferent">Auto Complete your commands.</div>
                   <p><strong>Step 1: Open the app if macOS shows a verification warning</strong></p>
+
+
 <ol className="install-steps">
   <li>Download and open the RocketUI DMG.</li>
   <li>Drag RocketUI into the Applications folder.</li>
@@ -72,9 +80,14 @@ function App() {
   <li>Confirm <b>Open</b>.</li>
 </ol>
 
-                  <a href="assets/RocketUI-1.0.dmg" download>
-                    Download RocketUI (ARM64)
-                  </a>
+
+                  <a
+  href="https://buy.stripe.com/bJe00icLO56ybHY8s36Vq00"
+  className="buy-button"
+>
+  Buy RocketUI – $0.99
+</a>
+
                   <p className="note">This version is for Apple Silicon Macs (ARM64) only. (Later will be available for windows and linux so please support!)</p>
                 </td>
               </tr>
@@ -82,7 +95,7 @@ function App() {
           </table>
         </div>
       </section>
-
+<h2>Support : mailandmore.cbe@gmail.com</h2>
     </div>
   );
 }

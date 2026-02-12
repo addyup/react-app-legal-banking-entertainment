@@ -120,6 +120,17 @@ a:hover {
   border-radius: 12px;
   box-shadow: 0 10px 40px rgba(0, 255, 150, 0.3);
 }
+.apple-only {
+  color: #39ff14;
+  text-shadow: 0 0 6px #39ff14;
+}
+
+.green-word {
+  color: #39ff14; /* neon green */
+  text-shadow: 0 0 6px #39ff14; /* optional glow effect */
+}
+
+
 
 /* Terminal style for instructions */
 .terminal-step {
